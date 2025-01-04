@@ -23,7 +23,7 @@ Adaptability, Problem Solving, Team Work, Communication, Leadership
 
 ### ASSOCIATE SOFTWARE ENGINEER - AIML  
 **Bizmetric, Pune, IN**  
-*APR 2023 - Present*
+*APR 2023 - NOV 2024*
 - Accumulated professional experience contributing to diverse and impactful projects.
 - Specialized in Natural Language Processing (NLP) and Computer Vision.
 - Leveraged advanced technologies such as Generative AI, LLMs, AI Agents, and NLP methodologies.
